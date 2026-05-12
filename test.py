@@ -9,3 +9,4 @@ myvar=john_wick
 
 
 print(john_wick)
+print("hey, whatsup")
